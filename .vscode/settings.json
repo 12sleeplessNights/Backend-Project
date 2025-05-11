@@ -1,0 +1,14 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "always"
+      },
+      "eslint.validate": ["javascript","typescript","json"],
+    "files.eol": "\n",
+    "discord.enabled": false,
+    "liveServer.settings.ignoreFiles": [
+      ".vscode/**",
+      "**/*.scss",
+      "**/*.sass",
+      "**/*.ts"
+    ]
+}
